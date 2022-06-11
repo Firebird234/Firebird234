@@ -2,6 +2,8 @@
 :punch:
 
 ____
+## Я - FRONTEND разработчик
+
 <br><br/>
 ![typing](https://c.tenor.com/Q5dH7srnB6EAAAAi/capoo-bug-cat.gif)
 <br/>
