@@ -2,13 +2,13 @@
 # Привет, меня зовут Максим. :punch:
 
 
-<font size = '26px'>Я - FRONTEND разработчик </font>
+### Я - FRONTEND разработчик
 
-<br><br/>
+<br></br>
 ![typing](https://c.tenor.com/Q5dH7srnB6EAAAAi/capoo-bug-cat.gif)
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 ____
 
