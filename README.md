@@ -1,21 +1,19 @@
-# Привет, меня зовут Максим.
-:punch:
+# Привет, меня зовут Максим. :punch:
 
-____
+
 ## Я - FRONTEND разработчик
 
 <br><br/>
 ![typing](https://c.tenor.com/Q5dH7srnB6EAAAAi/capoo-bug-cat.gif)
 <br/>
-
 <br/>
 <br/>
 
-
+____
 
 ## Стек технологий:<br/>
 
-____
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)
 ![JavaScript](https://img.shields.io/badge/-React-red?style=flat-square&logo=React)
 ![JavaScript](https://img.shields.io/badge/-Redux-blue?style=flat-square&logo=Redux)
