@@ -1,4 +1,4 @@
-**#Привет, меня зовут Максим.**
+# Привет, меня зовут Максим.
 :punch:
 
 ____
@@ -11,7 +11,7 @@ ____
 
 
 
-###Стек технологий:<br/>
+## Стек технологий:<br/>
 
 ____
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)
@@ -27,7 +27,7 @@ ____
 ![JavaScript](https://img.shields.io/badge/-Jest-630c70?style=flat-square&logo=Jest)
 
 
-**####<u>Мои проекты:</u>**<br/>
+### **<u>Мои проекты:</u>**<br/>
 [1. Redux-shop](https://github.com/Firebird234/redux-shop.git)<br/>
 2. Movies-explorer([front](https://github.com/Firebird234/movies-explorer-frontend/tree/level-3)+[api](https://github.com/Firebird234/movies-explorer-api/tree/level-1))<br/>
 [3. React-mesto(front+api)](https://github.com/Firebird234/react-mesto-api-full.git)<br/>
