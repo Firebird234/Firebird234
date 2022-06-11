@@ -29,11 +29,11 @@ ____
 
 
 ### **<u>Мои проекты:</u>**<br/>
----
+
 [1. Redux-shop](https://github.com/Firebird234/redux-shop.git)<br/>
 2. Movies-explorer([front](https://github.com/Firebird234/movies-explorer-frontend/tree/level-3)+[api](https://github.com/Firebird234/movies-explorer-api/tree/level-1))<br/>
 [3. React-mesto(front+api)](https://github.com/Firebird234/react-mesto-api-full.git)<br/>
 [4. Russian-travel(front+api)](https://github.com/Firebird234/russian-travel.git)<br/>
 [5. How-to-learn](https://github.com/Firebird234/how-to-learn.git)<br/>
----
+
 
