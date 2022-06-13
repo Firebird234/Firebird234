@@ -1,6 +1,4 @@
-
 # Привет, меня зовут Максим. :punch:
-
 
 ### Я - FRONTEND разработчик
 
@@ -10,10 +8,9 @@
 <br>
 <br>
 
-____
+---
 
 ## Стек технологий:<br/>
-
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)
 ![JavaScript](https://img.shields.io/badge/-React-red?style=flat-square&logo=React)
@@ -27,13 +24,9 @@ ____
 ![JavaScript](https://img.shields.io/badge/-Express-541010?style=flat-square&logo=Express)
 ![JavaScript](https://img.shields.io/badge/-Jest-630c70?style=flat-square&logo=Jest)
 
-
 ### **<u>Мои проекты:</u>**<br/>
 
-[1. Redux-shop](https://github.com/Firebird234/redux-shop.git)<br/>
-2. Movies-explorer([front](https://github.com/Firebird234/movies-explorer-frontend/tree/level-3)+[api](https://github.com/Firebird234/movies-explorer-api/tree/level-1))<br/>
+[1. Redux-shop](https://github.com/Firebird234/redux-shop.git)<br/> 2. Movies-explorer([front](https://github.com/Firebird234/movies-explorer-frontend.git)+[api](https://github.com/Firebird234/movies-explorer-api/tree/level-1))<br/>
 [3. React-mesto(front+api)](https://github.com/Firebird234/react-mesto-api-full.git)<br/>
 [4. Russian-travel(front+api)](https://github.com/Firebird234/russian-travel.git)<br/>
 [5. How-to-learn](https://github.com/Firebird234/how-to-learn.git)<br/>
-
-
