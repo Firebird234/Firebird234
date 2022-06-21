@@ -33,5 +33,5 @@
 
 ### Контакты:
 
-почта Dzirrt01@yandex.ru
+почта Dzirrt01@yandex.ru<br>
 тел. +79605872706
