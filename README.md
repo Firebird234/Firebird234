@@ -26,11 +26,12 @@
 
 ### **<u>Мои проекты:</u>**<br/>
 
-[1. Drag-and_Drop](https://github.com/Firebird234/Drag-and-drop.git)<br/>
-[2. Redux-shop](https://github.com/Firebird234/redux-shop.git)<br/> 3. Movies-explorer([front](https://github.com/Firebird234/movies-explorer-frontend.git)+[api](https://github.com/Firebird234/movies-explorer-api/tree/level-1))<br/>
-[4. React-mesto(front+api)](https://github.com/Firebird234/react-mesto-api-full.git)<br/>
-[5. Russian-travel(front+api)](https://github.com/Firebird234/russian-travel.git)<br/>
-[6. How-to-learn](https://github.com/Firebird234/how-to-learn.git)<br/>
+[1. Hacker-News](https://github.com/Firebird234/Hacker-News.git)<br/>
+[2. Drag-and_Drop](https://github.com/Firebird234/Drag-and-drop.git)<br/>
+[3. Redux-shop](https://github.com/Firebird234/redux-shop.git)<br/> 4. Movies-explorer([front](https://github.com/Firebird234/movies-explorer-frontend.git)+[api](https://github.com/Firebird234/movies-explorer-api/tree/level-1))<br/>
+[5. React-mesto(front+api)](https://github.com/Firebird234/react-mesto-api-full.git)<br/>
+[6. Russian-travel(front+api)](https://github.com/Firebird234/russian-travel.git)<br/>
+[7. How-to-learn](https://github.com/Firebird234/how-to-learn.git)<br/>
 
 ### Контакты:
 
